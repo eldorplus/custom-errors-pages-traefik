@@ -32,7 +32,7 @@ Labels are already define in the image to work with Traefik.
 To use it in production just run the container :
 
 ```bash
-$ docker run -d --restart always guillaumebriday/traefik-custom-error-pages
+$ docker run -d --restart always eldorplus/traefik-custom-error-pages
 ```
 
 ## Build the image
