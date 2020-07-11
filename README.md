@@ -11,7 +11,7 @@ A bunch of custom error pages for Traefik built with [Jekyll](https://jekyllrb.c
 
 Install dependencies
 ```bash
-$ bundle install
+$ bundle install --path vendor/bundle
 ```
 
 If you want to build the project on your host:
